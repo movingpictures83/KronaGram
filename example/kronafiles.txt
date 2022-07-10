@@ -1,0 +1,3 @@
+final_assembly.krona
+final_pure_reads.krona
+
